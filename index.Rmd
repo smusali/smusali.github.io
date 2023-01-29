@@ -1,0 +1,17 @@
+---
+title: "Samir Musali"
+image: "smusali.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/samirmusali"
+  - label: Twitter
+    url: "https://twitter.com/samirmusali"
+  - label: GitHub
+    url: "https://github.com/smusali"
+  - label: Email
+    url: "mailto:samir.musali@gmail.com"
+output:
+  postcards::jolla
+---
+
+By having 6+ years of Software Engineering experience at numerous startups in different funding levels, graduating from the University of Waterloo in Canada with an Honours Bachelor's degree in Computer Science, and currently studying for the Master's degree in Innovation and Technology Management, I am mainly interested in Innovation Management, Entrepreneurship, Software Product Management, Digital Business Analysis, Open-Source Software, Data Science and Analytics, and their applications in edTech, healthTech, and DevOps industries.
