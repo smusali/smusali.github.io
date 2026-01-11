@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-smusali-181717?style=flat&logo=github)](https://github.com/smusali)
 [![Email](https://img.shields.io/badge/Email-samir.musali@gmail.com-EA4335?style=flat&logo=gmail)](mailto:samir.musali@gmail.com)
 
-📍 **San Francisco Bay Area** | 📱 **+1 (669) 649-3240**
+📍 **San Francisco Bay Area**
 
 ---
 
@@ -219,15 +219,11 @@ Sep 2012 – Jun 2016 | Waterloo, ON, Canada
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smusali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smusali&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 <div align="center">
+
+### 🔗 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/samirmusali) • [Twitter/X](https://x.com/samirmusali) • [GitHub](https://github.com/smusali) • [Email](mailto:samir.musali@gmail.com)
 
 **Last Updated:** January 11th, 2026
 
