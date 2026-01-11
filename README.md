@@ -223,7 +223,7 @@ Sep 2012 – Jun 2016 | Waterloo, ON, Canada
 
 ### 🔗 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/samirmusali) • [Twitter/X](https://x.com/samirmusali) • [GitHub](https://github.com/smusali) • [Email](mailto:samir.musali@gmail.com)
+[LinkedIn](https://linkedin.com/in/samirmusali) • [X](https://x.com/samirmusali) • [GitHub](https://github.com/smusali) • [Email](mailto:samir.musali@gmail.com)
 
 **Last Updated:** January 11th, 2026
 
