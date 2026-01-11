@@ -4,18 +4,20 @@ image: "smusali.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/samirmusali"
-  - label: Twitter
-    url: "https://twitter.com/samirmusali"
+  - label: Twitter/X
+    url: "https://x.com/samirmusali"
   - label: GitHub
     url: "https://github.com/smusali"
   - label: Email
     url: "mailto:samir.musali@gmail.com"
+  - label: Phone
+    url: "tel:+16696493240"
 output:
   postcards::jolla
 ---
 
-Hi, I'm Samir Musali, a highly skilled software engineer with over 6 years of industry experience building and improving new integrations, creating and maintaining customer-facing tools and libraries, automating provisioning processes, and optimizing scripts. I have demonstrated proficiency in building SLO-based Alerting Policies and Dashboards around critical API endpoints, automating GCP Monitoring resources using Terraform, leading projects, developing new integrations, maintaining and improving customer-facing tools and libraries, and architected CI/CD pipelines.
+Staff Engineer with **9+ years of experience** building and scaling **cloud-native** and **AI/LLM-powered systems** for startups (including YC graduates) and product engineering teams across North America and Europe. Currently at Perle AI in San Francisco, previously at Evidently, Authentik Security, BenchSci, and Mezmo (LogDNA).
 
-I have a solid academic background, including an Honours Bachelor of Computer Science from the University of Waterloo and a current pursuit of a Master of Arts in Innovation and Technology Management at the University of Tartu. I have also earned certificates from Coursera and DataCamp, including Machine Learning, Software Product Management, and Data Analysis.
+Work focuses on the intersection of **Backend Platforms**, **Cloud Infrastructure**, and **Developer Experience**—designing systems that are reliable, observable, and straightforward for other engineers to build on. Specialized in **LLMOps**, **agentic workflows**, and production AI systems, with expertise in turning complex infrastructure into tools and platforms that are simple to adopt and safe to run in production.
 
-As a results-driven software engineer, I am passionate about developing and improving software solutions. I have excellent communication skills and collaborate with teams to achieve project goals. I am a motivated and experienced professional passionate about leveraging my skills and experience to drive innovation, create value, and achieve business goals. I am a strong communicator, problem-solver, and team player, always seeking new challenges and opportunities to apply my knowledge and expertise in a dynamic and exciting environment.
+Technical focus includes API development, platform engineering, SRE/DevOps practices, and healthcare data integrations (EHR/HIE). Proficient in Node.js, Python, TypeScript, Golang, with extensive experience in AWS, GCP, Docker, Terraform, and modern LLM APIs (OpenAI, Gemini). Bachelor's degree in Computer Science from the University of Waterloo.
