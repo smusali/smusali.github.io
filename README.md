@@ -3,7 +3,7 @@
 **Staff Engineer** | Platform | Full-Stack | DevEx | LLMOps | UWaterloo CS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samirmusali-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/samirmusali)
-[![Twitter/X](https://img.shields.io/badge/Twitter-@samirmusali-1DA1F2?style=flat&logo=x)](https://x.com/samirmusali)
+[![X](https://img.shields.io/badge/Twitter-@samirmusali-1DA1F2?style=flat&logo=x)](https://x.com/samirmusali)
 [![GitHub](https://img.shields.io/badge/GitHub-smusali-181717?style=flat&logo=github)](https://github.com/smusali)
 [![Email](https://img.shields.io/badge/Email-samir.musali@gmail.com-EA4335?style=flat&logo=gmail)](mailto:samir.musali@gmail.com)
 
@@ -15,11 +15,11 @@
 
 Staff Engineer with **9+ years of experience** building and scaling **cloud-native** and **AI/LLM-powered systems** for startups (including **YC graduates**) and product engineering teams across **North America and Europe**. 
 
-Work focuses on the intersection of **Backend Platforms**, **Cloud Infrastructure**, and **Developer Experience** - designing systems that are **reliable**, **observable**, and straightforward for other engineers to build on. Emphasis on turning complex infrastructure and **agentic workflows** into tools and platforms that are simple to adopt and safe to run in production.
+Work focuses on the intersection of **Backend Platforms**, **Cloud Infrastructure**, and **Developer Experience** by designing systems that are **reliable**, **observable**, and straightforward for other engineers to build on. Emphasis on turning complex infrastructure and **agentic workflows** into tools and platforms that are simple to adopt and safe to run in production.
 
 In parallel with engineering roles, supports founders by evaluating technical and product implications, assessing feasibility of AI- and infra-heavy products, and connecting what's desirable for customers, viable for the business, and buildable with modern cloud and LLM tooling.
 
-**Common thread:** High-leverage platforms and tooling across production LLM and automation use cases, developer/data platforms, and supporting infrastructure - bridging deep technical execution with founder/investor communication to move from idea to durable, scalable systems that create real value.
+**Common thread:** High-leverage platforms and tooling across production LLM and automation use cases, developer/data platforms, and supporting infrastructure by bridging deep technical execution with founder/investor communication to move from idea to durable, scalable systems that create real value.
 
 ---
 
@@ -132,7 +132,7 @@ AI solutions provider for preclinical R&D with ASCEND platform.
 ### Software Engineer @ [Mezmo](https://www.mezmo.com) (formerly LogDNA)
 **Dec 2017 – Nov 2021** | Toronto, ON
 
-**YC graduate** - AI-driven observability and telemetry pipeline platform.
+**YC graduate**: AI-driven observability and telemetry pipeline platform.
 
 **Key Achievements:**
 - Led projects building and architecting new integrations
@@ -176,7 +176,7 @@ CircleCI integration for continuous monitoring. Simplifies log management in CI/
 
 ## 🎓 Education
 
-**University of Waterloo**  
+**[University of Waterloo](https://uwaterloo.ca)**  
 Bachelor's Degree in Computer Science  
 Sep 2012 – Jun 2016 | Waterloo, ON, Canada
 
@@ -203,12 +203,12 @@ Sep 2012 – Jun 2016 | Waterloo, ON, Canada
 
 ## 🌍 Languages
 
-- **English** - Full Professional Proficiency
-- **Azerbaijani** - Native or Bilingual Proficiency
-- **Turkish** - Native or Bilingual Proficiency
-- **Russian** - Elementary Proficiency
-- **German** - Elementary Proficiency
-- **French** - Elementary Proficiency
+- **English**: Full Professional Proficiency
+- **Azerbaijani**: Native or Bilingual Proficiency
+- **Turkish**: Native or Bilingual Proficiency
+- **Russian**: Elementary Proficiency
+- **German**: Elementary Proficiency
+- **French**: Elementary Proficiency
 
 ---
 
