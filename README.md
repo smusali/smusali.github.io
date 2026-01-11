@@ -15,11 +15,11 @@
 
 Staff Engineer with **9+ years of experience** building and scaling **cloud-native** and **AI/LLM-powered systems** for startups (including **YC graduates**) and product engineering teams across **North America and Europe**. 
 
-Work focuses on the intersection of **Backend Platforms**, **Cloud Infrastructure**, and **Developer Experience**—designing systems that are **reliable**, **observable**, and straightforward for other engineers to build on. Emphasis on turning complex infrastructure and **agentic workflows** into tools and platforms that are simple to adopt and safe to run in production.
+Work focuses on the intersection of **Backend Platforms**, **Cloud Infrastructure**, and **Developer Experience** - designing systems that are **reliable**, **observable**, and straightforward for other engineers to build on. Emphasis on turning complex infrastructure and **agentic workflows** into tools and platforms that are simple to adopt and safe to run in production.
 
 In parallel with engineering roles, supports founders by evaluating technical and product implications, assessing feasibility of AI- and infra-heavy products, and connecting what's desirable for customers, viable for the business, and buildable with modern cloud and LLM tooling.
 
-**Common thread:** High-leverage platforms and tooling across production LLM and automation use cases, developer/data platforms, and supporting infrastructure—bridging deep technical execution with founder/investor communication to move from idea to durable, scalable systems that create real value.
+**Common thread:** High-leverage platforms and tooling across production LLM and automation use cases, developer/data platforms, and supporting infrastructure - bridging deep technical execution with founder/investor communication to move from idea to durable, scalable systems that create real value.
 
 ---
 
@@ -203,12 +203,12 @@ Sep 2012 – Jun 2016 | Waterloo, ON, Canada
 
 ## 🌍 Languages
 
-- **English** — Full Professional Proficiency
-- **Azerbaijani** — Native or Bilingual Proficiency
-- **Turkish** — Native or Bilingual Proficiency
-- **Russian** — Elementary Proficiency
-- **German** — Elementary Proficiency
-- **French** — Elementary Proficiency
+- **English** - Full Professional Proficiency
+- **Azerbaijani** - Native or Bilingual Proficiency
+- **Turkish** - Native or Bilingual Proficiency
+- **Russian** - Elementary Proficiency
+- **German** - Elementary Proficiency
+- **French** - Elementary Proficiency
 
 ---
 
